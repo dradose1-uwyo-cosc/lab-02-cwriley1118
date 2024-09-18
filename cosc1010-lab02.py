@@ -3,10 +3,8 @@
 # 09/18/2024
 # Lab 02 
 # Lab Section: 15
-# Sources, people worked with, help given to:
-# your
-# comments
-# here
+# Sources, people worked with, help given to: N/A
+
 
 your_variable_here = "when you see this, replace it with your code"
 
